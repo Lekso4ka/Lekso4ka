@@ -1,6 +1,12 @@
 <div id="header" align="center">
   <img src="./icon.png" width="100"/>
 </div>
+<br>
+<div id="badges" align="center">
+  <a href="https://github.com/queen-leksa">
+    <img src="https://img.shields.io/static/v1?label=&message=IThub%20college%20Profile&color=blueviolet" alt="Lekso4ka"/>
+  </a>
+</div>
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=lekso4ka&style=flat-square&color=blueviolet" alt=""/>
     <h1>Lekso4ka</h1>
