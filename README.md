@@ -2,7 +2,7 @@
   <img src="./icon.png" width="100"/>
 </div>
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=queen-leksa&style=flat-square&color=darkslateblue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=lekso4ka&style=flat-square&color=blueviolet" alt=""/>
     <h1>Lekso4ka</h1>
 </div>
 
@@ -39,12 +39,12 @@ I am Fullstack Developer and Teacher
 
 ## :purple_heart: My Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=queen-leksa&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lekso4ka&theme=tokyonight)](https://git.io/streak-stats)
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=queen-leksa&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lekso4ka&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=queen-leksa&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lekso4ka&show_icons=true&theme=tokyonight)
